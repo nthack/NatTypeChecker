@@ -31,6 +31,7 @@ Using Google stun server, available.
 
 # After
 This just a little tool to check your NAT type, not an official tools.
+
 As usual, Iphone hotspot wifi sharing is a symmetric NAT, home land network is asymmetric, Switch your network for a test, you will know.
 Tanks.
 
@@ -68,13 +69,14 @@ Tanks.
 
 # 输出
 > `normal nat`: 表示为普通NAT（非对称NAT）
-
+>
 > `symmetric nat`：表示对称型NAT
 
 <br>
 
 # 写在最后
 这是一个测试你的NAT类型小工具，并不是官方的工具。
+
 通常来说，Iphone的热点是对称型的NAT，家庭宽带是非对称的NAT，大家换一下网络测试一下就知道，
 
 
