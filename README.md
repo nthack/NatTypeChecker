@@ -2,13 +2,13 @@
 A useful NAT type checker with STUN protocol, base JS.
 Using Google stun server, available.
 
-Quote: 
+> Quote: 
 
-https://webrtchacks.com/symmetric-nat/
+> https://webrtchacks.com/symmetric-nat/
 
-https://jsfiddle.net/5ftsd5c2/17/
+> https://jsfiddle.net/5ftsd5c2/17/
 
-https://github.com/fippo/sdp
+> https://github.com/fippo/sdp
 
 
 
@@ -35,13 +35,13 @@ Tanks.
 一个使用STUN协议且基于JS的可用的NAT类型检查工具.
 使用Google的stun服务器，可用，记得看看自己是否能访问Google。
 
-引用/相关文章：
+> 引用/相关文章：
 
-https://webrtchacks.com/symmetric-nat/
+> https://webrtchacks.com/symmetric-nat/
 
-https://jsfiddle.net/5ftsd5c2/17/
+> https://jsfiddle.net/5ftsd5c2/17/
 
-https://github.com/fippo/sdp
+> https://github.com/fippo/sdp
 
 
 
