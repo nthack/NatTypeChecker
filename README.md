@@ -23,8 +23,9 @@ Using Google stun server, available.
 <br>
 
 # Prints
-`normal nat`: Means your NAT type is normal NAT type, asymmetric.
-`symmetric nat`：Means your NAT type is symmetric NAT type.
+>`normal nat`: Means your NAT type is normal NAT type, asymmetric.
+>
+>`symmetric nat`：Means your NAT type is symmetric NAT type.
 
 <br>
 
@@ -35,8 +36,10 @@ Tanks.
 
 
 <br>
+
 ---
 ---
+
 <br>
 
 
@@ -64,8 +67,9 @@ Tanks.
 <br>
 
 # 输出
-`normal nat`: 表示为普通NAT（非对称NAT）
-`symmetric nat`：表示对称型NAT
+> `normal nat`: 表示为普通NAT（非对称NAT）
+
+> `symmetric nat`：表示对称型NAT
 
 <br>
 
