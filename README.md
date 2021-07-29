@@ -3,12 +3,15 @@ A useful NAT type checker base JS
 
 Quote: 
 https://webrtchacks.com/symmetric-nat/
+
 https://jsfiddle.net/5ftsd5c2/17/
+
 https://github.com/fippo/sdp
 
 
+
 # Usage
-1. Open Chrome, and open Developer Tools in Chrome `F12`
+1. Open Chrome, and open `Developer Tools` in Chrome (`F12`)
 2. Switch to `Console` tab, Paste the code from `checker.js` into console, then Press `Enter` to run the script
 3. `Console` will print your NAT type below.
 
@@ -20,5 +23,24 @@ https://github.com/fippo/sdp
 # NAT类型检查工具
 一个基于JS的可用的NAT类型检查工具
 
+引用/相关文章：
+Quote:https://webrtchacks.com/symmetric-nat/
 
-#
+https://jsfiddle.net/5ftsd5c2/17/
+
+https://github.com/fippo/sdp
+
+
+
+# 用法
+1. 打开`Chrome`，打开`开发者工具`(`F12`)
+2. 选择`Console`控制台面板并粘贴从`checker.js`复制的代码，按`回车`键运行
+3. `Console`控制台会在下方输出你的网络类型
+
+
+
+
+
+
+
+
