@@ -3,11 +3,11 @@ A useful NAT type checker with STUN protocol, base JS.
 Using Google stun server, available.
 
 > Quote: 
-
+>
 > https://webrtchacks.com/symmetric-nat/
-
+>
 > https://jsfiddle.net/5ftsd5c2/17/
-
+>
 > https://github.com/fippo/sdp
 
 
@@ -36,11 +36,11 @@ Tanks.
 使用Google的stun服务器，可用，记得看看自己是否能访问Google。
 
 > 引用/相关文章：
-
+>
 > https://webrtchacks.com/symmetric-nat/
-
+>
 > https://jsfiddle.net/5ftsd5c2/17/
-
+>
 > https://github.com/fippo/sdp
 
 
